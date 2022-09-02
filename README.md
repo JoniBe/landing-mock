@@ -1,4 +1,11 @@
-# Vue 3 + TypeScript + Vite - Landing Mock
+# Landing Mock
+
+## Stack
+
+-   Vue 3
+-   TypeScript
+-   Vite
+-   Tailwind
 
 ## Running commands
 
