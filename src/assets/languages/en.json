@@ -1,0 +1,148 @@
+{
+    "header": {
+        "linkAbout": "About",
+        "linkUs": "Our Team",
+        "linkSuccessCases": "Success Cases",
+        "linkContact": "Contact Us"
+    },
+    "heroSection": {
+        "mainText": {
+            "p1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry....",
+            "p2": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        },
+        "contactButton": {
+            "label": "Contact us"
+        }
+    },
+    "aboutSection": {
+        "title": "About LoremIPSUM",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "config.png",
+                "title": "Alarm Configuration",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "id": 2,
+                "icon": "alert.png",
+                "title": "Inactivity Alerts",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "id": 3,
+                "icon": "notification.png",
+                "title": "Sending Notifications",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "id": 4,
+                "icon": "panic_button.png",
+                "title": "Panic Button",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "id": 5,
+                "icon": "period.png",
+                "title": "\"Do Not Disturb\" Period",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "id": 6,
+                "icon": "fingerprint.png",
+                "title": "Personal Data Security",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            }
+        ]
+    },
+    "usSection": {
+        "title": "Our Team",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "items": [
+            {
+                "id": 1,
+                "name": "John Doe",
+                "position": "Founder"
+            },
+            {
+                "id": 2,
+                "name": "John Doe",
+                "position": "CoFounder"
+            },
+            {
+                "id": 3,
+                "name": "John Doe",
+                "position": "Project Manager"
+            },
+            {
+                "id": 4,
+                "name": "John Doe",
+                "position": "Lead Developer"
+            },
+            {
+                "id": 5,
+                "name": "John Doe",
+                "position": "Architect"
+            },
+            {
+                "id": 6,
+                "name": "John Doe",
+                "position": "QA Analyst"
+            }
+        ]
+    },
+    "successSection": {
+        "title": "Success Cases",
+        "items": [
+            {
+                "name": "Microsoft",
+                "img": "/src/assets/imgs/microsoft.png",
+                "description": "<p style=\"margin-bottom: .75rem\">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> <p style=\"margin-bottom: .75rem\">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>"
+            }
+        ]
+    },
+    "contactUsSection": {
+        "title": "Contact Us",
+        "nameInput": {
+            "label": "Name (Optional)",
+            "placeholder": ""
+        },
+        "companyInput": {
+            "label": "Company (Optional)",
+            "placeholder": ""
+        },
+        "emailInput": {
+            "label": "Mail (Required)",
+            "placeholder": "",
+            "requiredError": "This field is required.",
+            "formatError": "The entered value has an invalid format."
+        },
+        "phoneInput": {
+            "label": "Phone (Optional)",
+            "placeholder": ""
+        },
+        "subjectInput": {
+            "label": "Subject (Required)",
+            "placeholder": "",
+            "error": "This field is required."
+        },
+        "messageInput": {
+            "label": "Message (Required)",
+            "placeholder": "",
+            "error": "This field is required."
+        },
+        "sendButton": {
+            "label": "Send"
+        },
+        "errorAlert": "Please, complete all required fields.",
+        "recaptchaAlert": "Please, complete the captcha.",
+        "successAlert": "The message has been sent successfully."
+    },
+    "footerSection": {
+        "linkAbout": "About",
+        "linkUs": "Our Team",
+        "linkSuccessCases": "Success Cases",
+        "linkContact": "Contact Us"
+    }
+}
